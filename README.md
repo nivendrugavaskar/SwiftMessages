@@ -1,6 +1,6 @@
 # SwiftMessages
 
-[![Twitter: @TimothyMoose](https://img.shields.io/badge/contact-@TimothyMoose-blue.svg?style=flat)](https://twitter.com/TimothyMoose)
+[![Twitter: @TimothyMoose](https://img.shields.io/badge/contact-@NivendruGavaskar-blue.svg?style=flat)](https://www.linkedin.com/in/nivendrugavaskar)
 [![Version](https://img.shields.io/cocoapods/v/SwiftMessages.svg?style=flat)](http://cocoadocs.org/docsets/SwiftMessages)
 [![License](https://img.shields.io/cocoapods/l/SwiftMessages.svg?style=flat)](http://cocoadocs.org/docsets/SwiftMessages)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftMessages.svg?style=flat)](http://cocoadocs.org/docsets/SwiftMessages)
@@ -357,9 +357,3 @@ If the view being presented adopts `BackgroundViewable`, SwiftMessages will igno
 [`AccessibleMessage`](./SwiftMessages/AccessibleMessage.swift) is a protocol adopted by `MessageView`. If the view being presented adopts `AccessibleMessage`, SwiftMessages provides improved Voice Over.
 
 
-## About SwiftKick Mobile
-We build high quality apps! [Get in touch](http://www.swiftkickmobile.com) if you need help with a project.
-
-## License
-
-SwiftMessages is distributed under the MIT license. [See LICENSE](./LICENSE.md) for details.
